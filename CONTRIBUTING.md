@@ -1,6 +1,6 @@
 # I am one of the main creators of this repository.
 ## I go by Grem or 6R3M
-
+---
 # Contributors READ THIS SECTION
 ---
 ## You are free to tackle any issues as well as add to this game.
